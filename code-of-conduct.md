@@ -46,7 +46,7 @@ Enforcement
 - Repeated infractions → suspension of merge/upload rights (7–30 days).
 - Severe violations (malware, harassment, supply-chain attack) → immediate suspension of keys, removal of uploaded packages, mirror notification, public disclosure if applicable.
 
-Appeals: Send to [coc-appeals@project.example] within 14 days. Appeals are reviewed by the Governance Board.
+Appeals: Send to [coc@zraxyl.eu] within 14 days. Appeals are reviewed by the Governance Board.
 
 Duties:
 
