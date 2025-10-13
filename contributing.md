@@ -81,7 +81,7 @@ By submitting this PR, I confirm:
 
 ## Appeals
 
-- Denied contributions or enforcement actions may be appealed to [coc-appeals@zraxyl.eu] within 14 days.
+- Denied contributions or enforcement actions may be appealed to [coc@zraxyl.eu] within 14 days.
 - Governance Board decisions are final after review.
 
 ---
